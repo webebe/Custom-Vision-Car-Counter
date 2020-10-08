@@ -4,3 +4,6 @@ The project is based on the Counting Cars project from IBM available here https:
 The code splits the input video into single frames and labels them accordingly. Detected objects are tracked from frame to frame in order to avoid counting them multiple times.
 
 The detection model was trained with 24 manually labeled images from the video and with 24 additional pictures of cars downloaded from the Open Image dataset from Google. 
+
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
