@@ -6,4 +6,4 @@ The code splits the input video into single frames and labels them accordingly. 
 The detection model was trained with 24 manually labeled images from the video and with 24 additional pictures of cars downloaded from the Open Image dataset from Google. 
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/webebe/Custom-Vision-Car-Counter/blob/master/cars.gif)
